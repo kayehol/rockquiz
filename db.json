@@ -1,38 +1,40 @@
 {
-    "bg": "https://d3dupjkkwlat3o.cloudfront.net/133144009077/3066895/1400w",
+    "bg": "http://authorityalchemy.com/wp-content/uploads/2015/11/sex-pistols-5041ff2ab1b3c.jpg",
     "title": "Rock Bands Quiz",
     "description": "Teste os seus conhecimentos sobre bandas de rock e vamos ver quantas caixas de som você vai quebrar",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
+        "image": "https://media.giphy.com/media/f5wMnjKsIiSyvQ6FYn/giphy.gif",
+        "title": "Que banda era rival do Oasis nos anos 90?",
         "description": "Essa é pra aquecer",
         "answer": 2,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "Nirvana",
+          "Prodigy",
+          "Blur",
+          "Green Day"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
+        "image": "https://media.giphy.com/media/l0EwXPEfbymPYNbXO/giphy.gif",
+        "title": "Em que ano foi lançado o primeiro do Ramones?",
         "description": "Faz tempo em haha",
-        "answer": 0,
+        "answer": 1 ,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "1973",
+           "1976",
+           "1977",
+           "1980"
         ]
       }
     ],
     "external": [
-      ""
+      "https://heavy-metal-quiz.octaviobarbosa.vercel.app/"
     ],
     "theme": {
       "colors": {
         "primary": "#e74c3c",
-        "secondary": "#29b6f6",
+        "secondary": "#e67e22",
         "mainBg": "#171B35",
         "contrastText": "#FFFFFF",
         "wrong": "#FF5722",
